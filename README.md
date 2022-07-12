@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jvgpinto
-- 👀 I’m interested in new technologies, geek stuf and coding better
+- 👀 I’m interested in new technologies, geek stuff and coding better
 - 🌱 I’m currently learning nodeJs, reactJs, saga-redux 
 - 💞️ I’m looking to collaborate on front-end projects 
 - 📫 You can reach me on  ![linkedin logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [@jvgpinto](https://www.linkedin.com/in/jvgpinto/)
